@@ -1,0 +1,14 @@
+# Тип|ID|Имя|Ставка|Стаж|Подчинённые|Проекты
+
+Manager|1|Анна|80000|5|Иван,Ольга|-
+Manager|2|Борис|85000|7|Пётр,Мария,Илья|-
+Manager|3|Вера|78000|3|Денис|-
+
+Developer|4|Глеб|90000|4|-|CRM,Website
+Developer|5|Дарья|95000|6|-|MobileApp,API,Dashboard
+Developer|6|Егор|88000|2|-|Game
+
+TeamLead|7|Жанна|120000|8|Артём,Лев|Platform,Analytics
+TeamLead|8|Игорь|130000|10|Нина,Олег,Роман|Core,Security,Cloud
+TeamLead|9|Кира|115000|5|Соня|Website,Mobile
+TeamLead|10|Леонид|125000|9|Марк,Тимур|AI,Data,API
